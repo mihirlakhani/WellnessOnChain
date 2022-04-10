@@ -26,3 +26,5 @@ solc: "0.5.16"
 Install Metamask as Google Chrome extension.
 
 Install Ganache for deployement of Contracts.
+
+https://docs.google.com/presentation/d/1TioidJkdVI2pcHVgtbeTLkv8nY8P9DORlpWHvkZHN7w/edit?usp=sharing

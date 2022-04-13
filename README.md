@@ -7,7 +7,9 @@ Configure Ganache with same port number.
 Goto Project Directory and run "truffle migrate" on command prompt.
 Goto Client directory and run "npm start" to start react server.
 Project will be open in your browser.
+
 #install following
+
 "Truffle" v5.1.20
 
 solc: "0.5.16"

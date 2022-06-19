@@ -1,5 +1,6 @@
 # WellnessOnChain
 A blockchain based platform for EHR sharing
+
 #Steps to run
 Add truffle-config.js file in Ganache.
 Create new network in metamask with port number same as in truffle-config.js
@@ -48,12 +49,4 @@ Video Demonstration
 
 https://drive.google.com/file/d/1HJE7XckDwcPcYkxVXDA6vNS2uiqsXxVL/view?usp=sharing
 
-AIC GE HEALTHCARE - PROBLEM STATEMENT- DATA FLOW CONTROL ASSIGNMENT
 
-TEAM - FOOTPRINTS ON THE MOON
-   
-   MIHIR LAKHANI
-   
-   FAHAD QURESHI
-   
-   SIDDHANT SINHA
